@@ -1,0 +1,21 @@
+.container{
+    margin: 0 auto;
+    max-width: 400px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.title{
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.timer{
+    font-size: 3rem;
+}
+
+.button-wrapper{
+    
+}
